@@ -1,2 +1,2 @@
 # Programs-From-CSC-101
-These are the programs I did in computer science 1
+In my Computer Science 1 course, I completed a variety of programming projects that introduced me to fundamental concepts in coding and software development. I learned to write and debug programs using python. I worked on assignments that ranged from basic algorithms to more complex tasks such as developing simple games or applications. These projects helped me understand key principles such as loops, conditionals, functions, and classes, providing a solid foundation for future studies in computer science.
